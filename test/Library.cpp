@@ -2,6 +2,8 @@
 
 using namespace std;
 
+const int SIZE = 5;
+
 list <string> readFile( string fileName )
 {
   list <string> fileContents;

@@ -30,14 +30,6 @@ auto_maker [MAIN_FILE]
 ```bash
 $ auto_maker test/reference-sheet.cpp
 
-[+] Compiling: ./test/reference-sheet.cpp
-[+] Headers found: 1
-[+] 'reference-sheet.hpp' detected in local directory
-[+] 'Library.hpp' detected in local directory
-[+] Local headers found: 2
-[+] Generated a Makefile with external dependencies
-
-Run using: ~$ make -f reference-sheet
 
 ```
 
